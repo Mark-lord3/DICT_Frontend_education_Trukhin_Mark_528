@@ -1,0 +1,242 @@
+body{
+    margin: 0px;
+    background-color: #607d8b;
+
+}
+section{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    border-style: solid;
+    border-color: aqua;
+}
+.visitors_elements{
+    margin: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.news_elements{
+    margin: 10px;
+    border-style: solid;
+    border-color: orange;
+    display: flex;
+    align-items: center;
+}
+.el{
+    margin: 5px;
+    border-style: solid;
+    border-color: orange;
+}
+header{
+    margin: 8px;
+    background-color: #607d8b;
+    border-style: solid;
+    border-color: orange;
+}
+main{
+    background-color: #607d8b;
+
+}
+footer{
+    text-align:  center;
+    background-color: #607d8b;
+}
+.heads_logo_nav{
+
+    border-style: solid;
+    border-width: 3px;
+    border-color:red;
+    max-width: 120px;
+    height: 60px;
+    margin: 8px;
+    
+
+}
+.navbar .nav_el{
+    height:40px;
+    max-width: 700px;
+
+    margin-left: 10px;    
+    border-style: solid;
+    border-width: 3px;
+    border-color:red;
+    display: flex;
+    align-items: center;
+    margin: 8;
+
+}
+.nav_menu{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+.nav_menu li{
+    display: inline-block;
+        
+}
+.nav_menu li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+
+}
+.header_top{
+    display: flex;
+    align-items: center;
+
+}
+.header_bottom{
+    display: flex;
+    align-items: center;
+
+}
+.dep{
+    border-style: solid;
+    border-width: 3px;
+    border-color:red;
+    width: 700px;
+    height: 600px;
+    margin: 8px;
+}
+.heads_logo_nav2{
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color:red;
+    width: 800px;
+    height: 600px;
+    margin: 8px;
+    
+}
+.help_info{
+    border-style: solid;
+    border-color: yellow;
+}
+.news-image{
+    border-style: solid;
+    border-color:aqua;
+    margin: 3px;
+    background-color: green;
+    width: 360px;
+    height: 260px;
+}
+.news-text{
+    border-style: solid;
+    border-color:aqua;
+    margin: 3px;
+}
+.el-ab-around{
+    border-style: solid;
+    border-color: orange;
+    margin: 3px;
+}
+.inside-of-el{
+    border-style: solid;
+    border-color: orange;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.inside-of-el_in{
+    border-style: solid;
+    border-color: black;
+    margin: 3px;
+    width: 700px;
+    height:300px;
+    text-align: left;
+
+    
+}
+.manc{
+    height: 300px;
+
+}
+.ech{
+    height: 300px;
+}
+.inf{
+    border-style: solid;
+    border-color:aqua;
+    margin: 3px;
+}
+.foots{
+    border-style: solid;
+    border-color: orange;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.foot_top{
+    border-style: solid;
+    border-color: aqua;
+    margin: 3px;
+    width: 750px;
+    height:150px;
+    text-align: left;
+    font-size: 10px;
+
+}
+.in{
+    display: flex;
+    align-items: center;
+}
+.infor{
+    border-style: solid;
+    border-color: aqua;
+    text-align: left;
+    width:65px;
+    height:65px;
+}
+.navbar_F .nav_el_F{
+    height:40px;
+    max-width: 700px;
+
+    margin-left: 10px;    
+
+    border-width: 3px;
+
+    display: flex;
+    align-items: center;
+    margin: 8;
+
+}
+.nav_menu_F{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
+.nav_menu_F2{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+.nav_menu_F li{
+    display: inline-block;
+        
+}
+.nav_menu_F li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+
+}
+.nav_menu_F2 li{
+    display: inline-block;
+    padding: 5px;
+
+}
+
+.help_info{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 0;
+    
+}
+.help_info li{
+    display: inline-block;
+    color:yellow;
+}
